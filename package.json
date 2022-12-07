@@ -1,0 +1,18 @@
+{
+  "name": "mental-berry-turn-i9ps2",
+  "productName": "mental-berry-turn-i9ps2",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "quentinhamel",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "usb": "^2.5.2"
+  },
+  "devDependencies": {
+    "electron": "20.1.4"
+  }
+}
